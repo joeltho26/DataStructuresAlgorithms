@@ -1,0 +1,21 @@
+{
+  "Electronics": {
+    "TV": [
+      "Samsung",
+      "MI",
+      "LG"
+    ],
+    "Cellphones": [
+      "Apple",
+      "MI",
+      "Samsung"
+    ],
+    "Laptops": {
+      "Brands": {
+        "Apple": ["Air","Pro"],
+        "Samsung": ["i3","i5"],
+        "Lenovo": ["i3","i5"]
+      }
+    }
+  }
+}
